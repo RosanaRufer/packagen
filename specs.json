@@ -1,0 +1,14 @@
+{
+    "description": "Given any string, capitalize all words",
+    "functionName": "capitalize",
+    "examples": [
+        {
+            "input": "Hello, my name is John",
+            "expected": "Hello, My Name Is John"
+        },
+        {
+            "input": "Mango is my cat",
+            "expected": "Mango Is My Cat"
+        }
+    ]
+}
